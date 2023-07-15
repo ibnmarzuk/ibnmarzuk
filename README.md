@@ -1,4 +1,4 @@
-### Hi there 👋
+o### Hi there 👋
 
 <!--
 **ibnmarzuk/ibnmarzuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+A branch is a separate line of development in your Git repository. You can create a new branch to work on a new feature or bugfix without affecting the main codebase. When you're done, you can merge your changes back into the main branch.
 
 markdown # Makedown
 How it works 
