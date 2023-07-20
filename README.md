@@ -32,3 +32,7 @@ for heading
 README
 
 In software development, a README file contains information about the other files in a directory or archive of computer software. A form of documentation
+
+ Forking is the process of creating a new copy of a Git repository on your own account. You can make changes to your forked repository without affecting the original repository, and you can create a pull request to propose your changes be merged back into the original repository.
+
+ Pushing is the process of uploading your changes to a remote repository. When you push your changes, they become visible to others who have access to the remote repository.
